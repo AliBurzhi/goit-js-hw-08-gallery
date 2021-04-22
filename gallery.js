@@ -94,7 +94,8 @@ function removeClassIsOpen(lightBox) {
 function clearSrcOfImage(image) {
   image.src = '';
   image.alt = '';
-}
+};
+
 
 
 
